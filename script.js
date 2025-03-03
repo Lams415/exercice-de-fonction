@@ -56,3 +56,13 @@ console.log(q, d,);
  var w;
  w = fac(4);
 console.log(w);
+
+// exercice 5
+ var num1 = 20,
+     num2 = 3,
+     nom = "licorne";
+
+     function multiplier (){
+         return num1 * num2;
+     }
+     console.log(3);
