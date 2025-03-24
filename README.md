@@ -8,3 +8,14 @@ FONCTION ET PARAMETRE
   - passer une parametre a une fonction
   - return fonction
   
+-----en-----
+## Functions and Parameters
+
+- Syntax
+- Array-based functions
+- Square calculations
+
+### Concatenation
+- Concatenating two variables of different types
+- Passing parameters to functions
+- Function returns (`return`)
